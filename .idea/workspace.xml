@@ -5,28 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd3cc84a-420e-4547-afab-e5e43efee3c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/.idea/Accumulate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/Accumulate/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/Accumulate/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/Accumulate/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/Accumulate/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/Accumulate/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/main/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/main/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/main/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/main/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/main/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/main/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/main/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/main/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accumulate_backend/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Vue Composition API Component" />
       </list>
     </option>
   </component>
@@ -79,35 +64,13 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Accumulate" type="Python.DjangoServer" factoryName="Django server">
-      <module name="Accumulate" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.9 (Accumulate)" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="localhost" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -126,7 +89,7 @@
       <updated>1721821459109</updated>
       <workItem from="1721821460495" duration="6483000" />
       <workItem from="1721925661211" duration="256000" />
-      <workItem from="1721925964982" duration="2879000" />
+      <workItem from="1721925964982" duration="4973000" />
     </task>
     <servers />
   </component>
