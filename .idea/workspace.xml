@@ -55,7 +55,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Accumulate_backend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -126,7 +126,7 @@
       <updated>1721821459109</updated>
       <workItem from="1721821460495" duration="6483000" />
       <workItem from="1721925661211" duration="256000" />
-      <workItem from="1721925964982" duration="2548000" />
+      <workItem from="1721925964982" duration="2879000" />
     </task>
     <servers />
   </component>
